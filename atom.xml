@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://haayue.github.io</id>
     <title>哈月网</title>
-    <updated>2020-11-29T06:59:28.064Z</updated>
+    <updated>2020-11-29T07:37:21.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://haayue.github.io"/>
     <link rel="self" href="https://haayue.github.io/atom.xml"/>
@@ -10,6 +10,25 @@
     <logo>https://haayue.github.io/images/avatar.png</logo>
     <icon>https://haayue.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, 哈月网</rights>
+    <entry>
+        <title type="html"><![CDATA[关于本站]]></title>
+        <id>https://haayue.github.io/post/guan-yu-ben-zhan/</id>
+        <link href="https://haayue.github.io/post/guan-yu-ben-zhan/">
+        </link>
+        <updated>2020-11-29T07:28:14.000Z</updated>
+        <content type="html"><![CDATA[<p>本站于2020年11月29日Husky_Zhang上钉钉时无聊所作！</p>
+<p>分区有 <strong>戏评</strong> <strong>影评</strong> <strong>书评</strong> 和一些 <strong>游戏推荐</strong></p>
+<p>每天一篇，满足你的需要</p>
+<h2 id="ctrlh收藏本站">Ctrl+H收藏本站</h2>
+<p>哈月网使用Creative Commons China中署名（BY）非商业性使用（NC）</p>
+<p>即：</p>
+<p>转载到其他<strong>必须</strong>注明原作者</p>
+<p><strong>不得</strong>用此牟利</p>
+<h2 id="谢谢合作">谢谢合作</h2>
+<p>哈月网使用GitHub page以及gridea写作</p>
+<p>感谢帮助</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://haayue.github.io/post/hello-gridea/</id>
